@@ -2,18 +2,6 @@
   <img src="./mathis.svg" alt="Hi there, I'm Mathis" />
 </p>
 
-
-<h2 align="center">
-🌐 Social
-</h2>
-
-<p align="center">
-  <a href="https://twitter.com/mafu24_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-
 <h2 align="center">
 💻 Tech Stack
 </h2>
