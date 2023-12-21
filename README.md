@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack"> 
+  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> 
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -49,6 +50,10 @@
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&amp;logo=Raspberry-Pi" alt="Raspberry Pi"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="apple">
 </p>
 
 
