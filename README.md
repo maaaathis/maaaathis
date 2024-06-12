@@ -52,15 +52,20 @@
   <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="apple">
 </p>
 
-
-<h2 align="center">
-📊 GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
-</p>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maaaathis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<details>
+  <summary><h4 align="center">
+  📊 GitHub Stats
+  </h2></summary>
+  
+  <h2 align="center">
+  📊 GitHub Stats
+  </h2>
+  
+  <p align="center">
+    <img src="./github-metrics.svg" alt="Metrics" />
+  </p>
+  
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Maaaathis&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+</details>
