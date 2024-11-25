@@ -220,8 +220,8 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="568.2156575438078" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="568.2156575438078" y="0" width="221.1643547514826" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="627.8528078098205" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="627.8528078098205" y="0" width="161.52720448546984" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="789.3800122952903" y="0" width="73.92131938634483" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="863.3013316816351" y="0" width="29.550667227504476" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="892.8519989091396" y="0" width="15.980919188510837" height="8" fill="#fcb32c"/>
@@ -2318,7 +2318,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2024, 16:15:36 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2024, 17:18:27 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
