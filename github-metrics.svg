@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 99 repositories
+                            Contributed to 97 repositories
                         </div>
                     </section>
                 </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.03mb of code in 1141 edited files across 424 commits</small>
+                <small>estimation from 7.03mb of code in 1135 edited files across 420 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="626.0713547100268" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="626.0713547100268" y="0" width="162.54718758760782" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="788.6185422976346" y="0" width="73.73479357871952" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="862.3533358763541" y="0" width="30.654123140416104" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="893.0074590167702" y="0" width="15.889406174025343" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="908.8968651907956" y="0" width="5.915188727371329" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="914.812053918167" y="0" width="3.441718101558443" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="918.2537720197254" y="0" width="1.7462279802747382" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="625.4608589928985" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="625.4608589928985" y="0" width="162.88480137055697" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="788.3456603634554" y="0" width="73.88794223028673" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="862.2336025937423" y="0" width="30.717792371671468" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="892.9513949654137" y="0" width="15.922408790722951" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="908.8738037561366" y="0" width="5.927474693512882" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="914.8012784496495" y="0" width="3.4488666193849076" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="918.2501450690344" y="0" width="1.7498549309655609" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2291,7 +2291,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jan 2025, 23:13:28 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2025, 00:13:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
