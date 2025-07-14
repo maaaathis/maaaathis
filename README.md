@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./mathis.svg" alt="Hi there, I'm Mathis" />
 </p>
 
 <h2 align="center">
 💻 Tech Stack
-</h2>
+</h2> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift"> 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Shell Script">
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="apple">
 </p>
 
-<details>
+<!-- <details>
   <summary><h4 align="center">
   📊 GitHub Stats
   </h2></summary>
@@ -61,7 +62,7 @@
     <img src="./github-metrics.svg" alt="Metrics" />
   </p>
   
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Maaaathis&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-</details>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaaathis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details> -->
